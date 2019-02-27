@@ -1,0 +1,56 @@
+Code in OOP
+*Everything is an object
+*All code blocks are "associated" with classes and objects
+
+public void greet(action) {
+		action();
+	}
+	
+function as values(inline values)
+
+aBlockOfCode = public void perform() {
+					System.out.print("Hello World!");
+					}
+
+when the function was passed as an inline value, there is no need to specify access modifier(public),
+return type(compiler will figure that out) and function name(not being referenced anywhere else)
+aBlockOfCode = () -> {
+					System.out.print("Hello World!");
+					}
+
+if there is only 1 line in lambda expression, curly braces are not needed.
+
+Exercise:
+**greetingFunction = () -> System.out.print("Hello World");
+  greet(greetingFunction);
+**greet(() -> System.out.print("Hello World"));
+
+**public int double(int a) {
+	return a*2;
+  }
+**doubleNumberFunction = (int a) -> return a*2;
+  if there is only 1 line, "return" can be omitted too
+**oubleNumberFunction = (int a) -> a*2;
+  
+**addFucntion = (int a, int b) -> a + b;
+
+**safeDivideFunction = (int a, int b) -> {
+  	if (b == 0) return 0;
+  	return a/b;
+  };
+  
+**stringLengthCountFunction = (String s) -> s.length();
+
+Function type
+use interface to declare lambda function
+1. create a new interface
+2. create a method that has the same signature of the lambda expression to be declared.
+3. the interface name and method name don't matterm, only return type and signature matter.
+When using interface to declare the lambda expression, the interface should have only 1 method
+that matches the lambda expression signature and return type.
+
+
+
+
+
+

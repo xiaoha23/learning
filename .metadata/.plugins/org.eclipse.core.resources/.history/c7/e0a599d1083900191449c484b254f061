@@ -1,0 +1,9 @@
+Code in OOP
+*Everything is an object
+*All code blocks are "associated" with classes and objects
+
+public void greet(action) {
+		action();
+	}
+	
+function as values(inline values)

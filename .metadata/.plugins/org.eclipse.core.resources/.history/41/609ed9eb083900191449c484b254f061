@@ -1,0 +1,19 @@
+Code in OOP
+*Everything is an object
+*All code blocks are "associated" with classes and objects
+
+public void greet(action) {
+		action();
+	}
+	
+function as values(inline values)
+
+aBlockOfCode = public void perform() {
+					System.out.print("Hello World!");
+					}
+
+when the function was passed as an inline value, there is no need to specify access modifier(public),
+return type(compiler will figure that out) and function name(not being referenced anywhere else)
+aBlockOfCode = () -> {
+					System.out.print("Hello World!");
+					}

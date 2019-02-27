@@ -1,0 +1,10 @@
+package com.xiaonan.unit3;
+
+public class CollectionIterationExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

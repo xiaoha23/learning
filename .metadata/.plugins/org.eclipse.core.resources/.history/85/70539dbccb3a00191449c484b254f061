@@ -1,0 +1,5 @@
+package com.xiaonan.learning.microserivce.moviecatalogservice.models;
+
+public class CatalogItem {
+
+}

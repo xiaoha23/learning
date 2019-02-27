@@ -1,0 +1,5 @@
+package com.xiaonan.learning.microserivce.ratingdataservice.models;
+
+public class Rating {
+
+}
