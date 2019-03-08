@@ -11,6 +11,13 @@ public class Movie {
 		this.name = name;
 	}
 
+	
+	public Movie() {
+		super();
+		
+	}
+
+
 	public String getMovieId() {
 		return movieId;
 	}

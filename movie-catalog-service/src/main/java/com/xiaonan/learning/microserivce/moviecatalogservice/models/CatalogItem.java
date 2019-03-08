@@ -8,6 +8,10 @@ public class CatalogItem {
 	
 	
 	
+	public CatalogItem() {
+		super();
+		
+	}
 	public CatalogItem(String name, String desc, int rating) {
 		super();
 		this.name = name;

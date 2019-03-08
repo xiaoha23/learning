@@ -1,9 +1,0 @@
-package com.xiaonan.unit2;
-
-public class ThisReferenceExample {
-
-	public void doProcess(int i, Process p) {
-		p.process(i);
-	}
-	
-}
