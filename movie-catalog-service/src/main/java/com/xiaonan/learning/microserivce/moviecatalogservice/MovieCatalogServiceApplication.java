@@ -12,7 +12,7 @@ import org.springframework.web.client.RestTemplate;
 public class MovieCatalogServiceApplication {
 
 	@Bean
-	@LoadBalanced  //telling template to find service by hint
+	@LoadBalanced  //telling rest template to find service by hint in a load balanced way if there are multiple instance
 	public RestTemplate getRestTemplate() {
 		return new RestTemplate();
 	}
