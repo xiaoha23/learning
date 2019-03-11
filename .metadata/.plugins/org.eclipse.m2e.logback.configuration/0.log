@@ -1810,3 +1810,961 @@
 2019-03-08 16:41:18,205 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-03-08 16:41:18,207 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-03-08 16:41:18,207 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:05:23,257 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:05:23,258 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 11:05:23,267 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:05:23,270 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:05:23,271 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:05:29,060 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:05:29,062 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 11:05:29,067 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:05:29,069 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:05:29,069 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:06:35,569 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:06:35,570 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:06:35,570 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:06:35,573 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:06:35,574 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:06:51,994 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:06:51,994 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:06:51,995 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:06:51,998 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:06:51,998 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:07:06,013 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:07:06,013 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:07:06,014 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:07:06,017 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:07:06,018 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:11:17,561 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:11:17,561 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:11:17,562 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:11:17,564 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:11:17,564 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:11:21,851 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:11:21,851 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:11:21,851 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:11:21,853 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:11:21,853 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:12:06,039 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:12:06,039 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:12:06,040 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:12:06,042 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:12:06,042 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:12:22,487 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:12:22,487 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:12:22,488 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:12:22,490 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:12:22,490 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:12:53,679 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:12:53,679 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:12:53,679 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:12:53,682 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:12:53,682 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:14:30,558 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:14:30,558 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:14:30,559 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:14:30,561 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:14:30,561 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:15:48,446 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:15:48,446 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:15:48,447 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:15:48,450 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:15:48,450 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:16:03,757 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:16:03,758 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:16:03,758 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:16:03,762 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:16:03,762 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:16:27,053 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:16:27,053 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:16:27,054 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:16:27,056 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:16:27,056 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:16:40,065 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:16:40,065 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:16:40,066 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:16:40,067 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:16:40,067 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:16:46,907 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:16:46,907 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:16:46,907 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:16:46,909 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:16:46,909 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:20:30,625 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:20:30,626 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:20:30,626 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:20:30,628 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:20:30,629 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:22:51,843 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:22:51,843 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:22:51,843 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:22:51,845 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:22:51,845 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:23:15,025 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:23:15,025 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:23:15,025 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:23:15,027 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:23:15,027 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:23:37,243 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:23:37,243 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:23:37,244 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:23:37,246 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:23:37,246 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:23:59,141 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:23:59,141 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:23:59,141 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:23:59,144 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:23:59,144 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:24:30,313 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:24:30,314 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:24:30,314 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:24:30,315 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:24:30,315 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:24:46,841 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:24:46,841 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:24:46,842 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:24:46,844 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:24:46,844 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:25:39,703 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:25:39,704 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:25:39,704 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:25:39,706 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:25:39,706 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:26:08,370 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:26:08,370 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:26:08,370 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:26:08,372 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:26:08,372 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:26:46,929 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:26:46,929 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:26:46,930 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:26:46,932 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:26:46,932 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:26:59,887 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:26:59,887 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:26:59,887 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:26:59,889 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:26:59,889 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:27:18,602 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:27:18,603 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:27:18,603 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:27:18,606 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:27:18,606 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:27:36,061 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:27:36,062 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:27:36,063 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:27:36,065 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:27:36,065 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:27:40,584 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:27:40,584 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:27:40,584 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:27:40,586 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:27:40,586 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:27:49,504 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:27:49,505 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:27:49,505 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:27:49,506 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:27:49,506 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:28:33,367 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:28:33,368 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:28:33,368 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:28:33,370 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:28:33,371 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:29:02,229 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:29:02,229 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:29:02,230 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:29:02,232 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:29:02,232 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:30:13,334 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:30:13,334 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:30:13,335 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:30:13,337 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:30:13,337 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:30:40,814 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:30:40,814 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:30:40,814 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:30:40,816 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:30:40,816 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:30:52,979 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:30:52,980 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:30:52,980 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:30:52,983 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:30:52,983 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:33:09,439 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:33:09,439 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:33:09,440 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:33:09,441 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:33:09,441 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:34:40,653 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:34:40,654 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:34:40,654 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:34:40,656 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:34:40,657 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:36:43,089 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:36:43,090 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:36:43,090 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:36:43,092 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:36:43,092 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:36:58,920 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:36:58,920 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:36:58,920 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:36:58,922 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:36:58,923 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:37:18,406 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:37:18,407 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:37:18,407 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:37:18,409 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:37:18,409 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:39:38,326 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:39:38,327 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:39:38,327 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:39:38,330 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:39:38,330 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:43:16,780 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:43:16,781 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:43:16,781 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:43:16,783 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:43:16,783 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:44:44,088 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:44:44,088 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:44:44,089 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:44:44,090 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:44:44,090 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:44:56,105 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:44:56,105 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:44:56,106 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:44:56,107 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:44:56,107 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 11:45:42,839 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:45:42,839 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:45:42,839 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 11:45:42,840 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 11:45:42,840 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:03:11,492 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:03:11,492 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:03:11,492 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:03:11,494 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:03:11,494 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:04:14,124 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:04:14,124 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:04:14,125 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:04:14,127 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:04:14,127 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:04:21,673 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:04:21,673 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:04:21,673 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:04:21,675 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:04:21,675 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:04:45,598 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:04:45,599 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:04:45,599 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:04:45,601 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:04:45,602 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:04:48,642 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:04:48,642 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:04:48,642 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:04:48,644 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:04:48,644 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:04:49,921 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:04:49,922 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:04:49,922 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:04:49,923 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:04:49,923 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:05:04,145 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:05:04,145 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:05:04,145 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:05:04,146 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:05:04,146 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:05:39,611 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:05:39,611 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:05:39,611 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:05:39,613 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:05:39,613 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:05:43,791 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:05:43,792 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:05:43,792 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:05:43,794 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:05:43,794 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:07:14,645 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:07:14,646 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:07:14,646 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:07:14,648 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:07:14,649 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:07:39,983 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:07:39,983 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:07:39,983 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:07:39,985 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:07:39,985 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:12:25,953 [Worker-216] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xiaonan.learning:spring-unit-testing-with-junit-and-mockito:0.0.1-SNAPSHOT @ C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\pom.xml.
+2019-03-11 13:12:27,132 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-module-junit4/1.7.4/powermock-module-junit4-1.7.4.pom
+2019-03-11 13:12:27,231 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-module-junit4/1.7.4/powermock-module-junit4-1.7.4.pom
+2019-03-11 13:12:27,280 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-module-junit4-common/1.7.4/powermock-module-junit4-common-1.7.4.pom
+2019-03-11 13:12:27,321 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-module-junit4-common/1.7.4/powermock-module-junit4-common-1.7.4.pom
+2019-03-11 13:12:27,366 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-reflect/1.7.4/powermock-reflect-1.7.4.pom
+2019-03-11 13:12:27,406 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-reflect/1.7.4/powermock-reflect-1.7.4.pom
+2019-03-11 13:12:27,483 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/objenesis/objenesis/2.4/objenesis-2.4.pom
+2019-03-11 13:12:27,521 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/objenesis/objenesis/2.4/objenesis-2.4.pom
+2019-03-11 13:12:27,562 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/objenesis/objenesis-parent/2.4/objenesis-parent-2.4.pom
+2019-03-11 13:12:27,633 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/objenesis/objenesis-parent/2.4/objenesis-parent-2.4.pom
+2019-03-11 13:12:27,683 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-core/1.7.4/powermock-core-1.7.4.pom
+2019-03-11 13:12:27,721 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-core/1.7.4/powermock-core-1.7.4.pom
+2019-03-11 13:12:27,763 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.pom
+2019-03-11 13:12:27,827 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.pom
+2019-03-11 13:12:27,981 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-module-junit4/1.7.4/powermock-module-junit4-1.7.4.jar
+2019-03-11 13:12:28,098 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-module-junit4/1.7.4/powermock-module-junit4-1.7.4.jar
+2019-03-11 13:12:28,125 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-module-junit4-common/1.7.4/powermock-module-junit4-common-1.7.4.jar
+2019-03-11 13:12:28,199 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-module-junit4-common/1.7.4/powermock-module-junit4-common-1.7.4.jar
+2019-03-11 13:12:28,227 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-reflect/1.7.4/powermock-reflect-1.7.4.jar
+2019-03-11 13:12:28,346 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-reflect/1.7.4/powermock-reflect-1.7.4.jar
+2019-03-11 13:12:28,374 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-core/1.7.4/powermock-core-1.7.4.jar
+2019-03-11 13:12:28,528 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-core/1.7.4/powermock-core-1.7.4.jar
+2019-03-11 13:12:28,555 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar
+2019-03-11 13:12:28,855 [Worker-216] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar
+2019-03-11 13:12:29,887 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:12:29,888 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:12:29,888 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:12:29,890 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:12:29,890 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:12:32,168 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:12:32,170 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:12:32,179 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:12:32,182 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:12:32,183 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:13:01,447 [Worker-217] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xiaonan.learning:spring-unit-testing-with-junit-and-mockito:0.0.1-SNAPSHOT @ C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\pom.xml.
+2019-03-11 13:13:01,980 [Worker-217] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/modules/powermock-module-junit4/1.4.5/powermock-module-junit4-1.4.5.pom
+2019-03-11 13:13:02,670 [Worker-217] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/powermock/modules/powermock-module-junit4/1.4.5/powermock-module-junit4-1.4.5.pom
+2019-03-11 13:13:02,993 [Worker-217] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/powermock/modules/powermock-module-junit4/1.4.5/powermock-module-junit4-1.4.5.pom
+2019-03-11 13:13:03,002 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.powermock.modules:powermock-module-junit4:jar:1.4.5 is missing, no dependency information available
+2019-03-11 13:13:03,158 [Worker-217] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/modules/powermock-module-junit4/1.4.5/powermock-module-junit4-1.4.5.jar
+2019-03-11 13:13:03,359 [Worker-217] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/powermock/modules/powermock-module-junit4/1.4.5/powermock-module-junit4-1.4.5.jar
+2019-03-11 13:13:03,630 [Worker-217] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/powermock/modules/powermock-module-junit4/1.4.5/powermock-module-junit4-1.4.5.jar
+2019-03-11 13:13:03,891 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:13:03,891 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:13:03,892 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:13:03,894 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:13:03,894 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:14:39,630 [Worker-210] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xiaonan.learning:spring-unit-testing-with-junit-and-mockito:0.0.1-SNAPSHOT @ C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\pom.xml.
+2019-03-11 13:14:39,798 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito/1.7.4/powermock-api-mockito-1.7.4.pom
+2019-03-11 13:14:39,854 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito/1.7.4/powermock-api-mockito-1.7.4.pom
+2019-03-11 13:14:39,914 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito-common/1.7.4/powermock-api-mockito-common-1.7.4.pom
+2019-03-11 13:14:39,963 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito-common/1.7.4/powermock-api-mockito-common-1.7.4.pom
+2019-03-11 13:14:40,029 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-support/1.7.4/powermock-api-support-1.7.4.pom
+2019-03-11 13:14:40,074 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-api-support/1.7.4/powermock-api-support-1.7.4.pom
+2019-03-11 13:14:40,198 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito/1.7.4/powermock-api-mockito-1.7.4.jar
+2019-03-11 13:14:40,231 [Worker-210] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito/1.7.4/powermock-api-mockito-1.7.4.jar
+2019-03-11 13:14:40,508 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito/1.7.4/powermock-api-mockito-1.7.4.jar
+2019-03-11 13:14:40,535 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito-common/1.7.4/powermock-api-mockito-common-1.7.4.jar
+2019-03-11 13:14:40,646 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito-common/1.7.4/powermock-api-mockito-common-1.7.4.jar
+2019-03-11 13:14:40,674 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-support/1.7.4/powermock-api-support-1.7.4.jar
+2019-03-11 13:14:40,766 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-api-support/1.7.4/powermock-api-support-1.7.4.jar
+2019-03-11 13:14:40,830 [Worker-210] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito/1.7.4/powermock-api-mockito-1.7.4.jar
+2019-03-11 13:14:40,860 [Worker-210] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito-common/1.7.4/powermock-api-mockito-common-1.7.4.jar
+2019-03-11 13:14:41,542 [Worker-210] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito-common/1.7.4/powermock-api-mockito-common-1.7.4.jar
+2019-03-11 13:14:41,624 [Worker-210] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-support/1.7.4/powermock-api-support-1.7.4.jar
+2019-03-11 13:14:41,761 [Worker-210] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/powermock/powermock-api-support/1.7.4/powermock-api-support-1.7.4.jar
+2019-03-11 13:14:42,461 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:14:42,461 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:14:42,461 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:14:42,464 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:14:42,464 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:14:44,518 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:14:44,519 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:14:44,522 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:14:44,523 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:14:44,524 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:21:47,107 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:21:47,108 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:21:47,113 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:21:47,116 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:21:47,116 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:23:40,001 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:23:40,003 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:23:40,007 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:23:40,010 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:23:40,010 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:23:57,664 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:23:57,666 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:23:57,672 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:23:57,674 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:23:57,674 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:25:33,917 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:25:33,918 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:25:33,922 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:25:33,924 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:25:33,924 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:26:50,827 [Worker-223] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-11 13:26:53,431 [Worker-223] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xiaonan.learning:spring-unit-testing-with-junit-and-mockito:0.0.1-SNAPSHOT @ C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\pom.xml.
+2019-03-11 13:26:54,634 [Worker-223] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-unit-testing-with-junit-and-mockito/src/main/java
+2019-03-11 13:26:54,634 [Worker-223] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-unit-testing-with-junit-and-mockito/src/main/resources
+2019-03-11 13:26:54,635 [Worker-223] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-unit-testing-with-junit-and-mockito/src/main/resources
+2019-03-11 13:26:54,635 [Worker-223] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-unit-testing-with-junit-and-mockito/src/test/java
+2019-03-11 13:26:55,249 [Worker-223] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2019-03-11 13:26:56,027 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:26:56,028 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:26:56,047 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:26:56,050 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:26:56,050 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:30:38,155 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:30:38,159 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:30:38,163 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:30:38,165 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:30:38,165 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:35:33,668 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:35:33,669 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:35:33,676 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:35:33,678 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:35:33,679 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:35:37,411 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:35:37,412 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:35:37,415 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:35:37,417 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:35:37,417 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:39:12,654 [Worker-233] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE-sources.jar
+2019-03-11 13:39:13,168 [Worker-233] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE-sources.jar
+2019-03-11 13:39:13,559 [Worker-233] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:5.1.5.RELEASE
+2019-03-11 13:39:14,186 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:39:14,187 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:39:14,187 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:39:14,189 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:39:14,189 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:39:33,224 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:39:33,225 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:39:33,229 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:39:33,231 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:39:33,232 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:40:03,174 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:40:03,175 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:40:03,183 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:40:03,185 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:40:03,186 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:40:49,613 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:40:49,614 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:40:49,618 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:40:49,621 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:40:49,621 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:42:56,315 [Worker-235] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xiaonan.learning:spring-unit-testing-with-junit-and-mockito:0.0.1-SNAPSHOT @ C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\pom.xml.
+2019-03-11 13:42:57,174 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:42:57,179 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:42:57,180 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:42:57,182 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:42:57,183 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:43:00,106 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:43:00,107 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:43:00,123 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:43:00,125 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:43:00,125 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:43:36,079 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:43:36,080 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:43:36,084 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:43:36,085 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:43:36,085 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:44:29,298 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:44:29,299 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:44:29,303 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:44:29,304 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:44:29,305 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:49:03,209 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:49:03,210 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:49:03,215 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:49:03,217 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:49:03,217 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:49:24,011 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:49:24,013 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:49:24,017 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:49:24,019 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:49:24,019 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:49:50,139 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:49:50,140 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:49:50,144 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:49:50,148 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:49:50,148 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:50:53,283 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:50:53,284 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:50:53,289 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:50:53,292 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:50:53,293 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:51:31,123 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:51:31,124 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:51:31,126 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:51:31,128 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:51:31,128 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:51:37,057 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:51:37,058 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:51:37,062 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:51:37,064 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:51:37,064 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:52:47,672 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:52:47,674 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:52:47,677 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:52:47,678 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:52:47,678 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:53:07,696 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:53:07,697 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:53:07,697 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:53:07,715 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:53:07,716 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:53:15,700 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:53:15,700 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:53:15,700 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:53:15,703 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:53:15,703 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:53:31,446 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:53:31,447 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:53:31,456 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:53:31,458 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:53:31,458 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:54:06,967 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:54:06,968 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:54:06,974 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:54:06,976 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:54:06,977 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:54:20,068 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:54:20,069 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:54:20,074 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:54:20,078 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:54:20,078 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:55:14,618 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:55:14,620 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:55:14,624 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:55:14,627 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:55:14,627 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:55:39,813 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:55:39,813 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:55:39,818 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:55:39,821 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:55:39,821 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:55:56,344 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:55:56,346 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:55:56,351 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:55:56,353 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:55:56,353 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:56:16,328 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:56:16,329 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:56:16,333 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:56:16,335 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:56:16,335 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:56:46,308 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:56:46,310 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:56:46,314 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:56:46,316 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:56:46,316 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:56:53,917 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:56:53,918 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:56:53,923 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:56:53,925 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:56:53,925 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:57:22,949 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:57:22,950 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:57:22,955 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:57:22,957 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:57:22,957 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:57:30,512 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:57:30,514 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 13:57:30,518 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:57:30,520 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:57:30,520 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 13:59:53,696 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:59:53,696 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:59:53,696 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 13:59:53,698 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 13:59:53,699 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:01:08,895 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:01:08,896 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:01:08,896 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:01:08,898 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:01:08,898 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:03:17,837 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:03:17,837 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:03:17,837 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:03:17,838 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:03:17,839 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:03:40,588 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:03:40,589 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:03:40,589 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:03:40,593 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:03:40,593 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:03:52,113 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:03:52,113 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:03:52,114 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:03:52,116 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:03:52,116 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:04:16,330 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:04:16,331 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:04:16,331 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:04:16,332 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:04:16,333 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:07:06,570 [Worker-244] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0-sources.jar
+2019-03-11 14:07:06,727 [Worker-244] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0-sources.jar
+2019-03-11 14:07:06,918 [Worker-244] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.skyscreamer:jsonassert:1.5.0
+2019-03-11 14:07:07,495 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:07:07,495 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:07:07,496 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:07:07,498 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:07:07,499 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:27:25,562 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:27:25,563 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:27:25,563 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:27:25,565 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:27:25,566 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:28:31,175 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:28:31,176 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:28:31,176 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:28:31,178 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:28:31,178 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:29:27,130 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:29:27,130 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:29:27,131 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:29:27,134 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:29:27,134 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:29:37,526 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:29:37,526 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:29:37,527 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:29:37,529 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:29:37,530 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:29:43,550 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:29:43,550 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:29:43,551 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:29:43,553 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:29:43,553 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:29:57,330 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:29:57,331 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:29:57,331 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:29:57,333 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:29:57,333 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:30:11,564 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:30:11,565 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:30:11,565 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:30:11,566 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:30:11,566 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:30:36,292 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:30:36,292 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:30:36,292 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:30:36,296 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:30:36,296 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:32:03,726 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:32:03,726 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:32:03,727 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:32:03,729 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:32:03,729 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:32:18,920 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:32:18,921 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:32:18,921 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:32:18,923 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:32:18,923 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:32:23,973 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:32:23,974 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:32:23,975 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:32:23,977 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:32:23,977 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:32:42,649 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:32:42,649 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:32:42,650 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:32:42,653 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:32:42,653 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:32:57,702 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:32:57,703 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:32:57,703 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:32:57,705 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:32:57,705 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:33:03,201 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:33:03,201 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:33:03,201 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:33:03,203 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:33:03,203 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:33:11,721 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:33:11,722 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:33:11,722 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:33:11,724 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:33:11,724 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:34:27,198 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:34:27,198 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:34:27,198 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:34:27,201 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:34:27,201 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:34:52,733 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:34:52,733 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:34:52,734 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:34:52,737 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:34:52,737 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:34:58,473 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:34:58,474 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:34:58,474 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:34:58,476 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:34:58,476 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:35:25,765 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:35:25,765 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:35:25,766 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:35:25,767 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:35:25,767 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:36:02,291 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:36:02,291 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:36:02,291 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:36:02,294 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:36:02,294 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:36:47,349 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:36:47,350 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:36:47,354 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:36:47,356 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:36:47,356 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:37:25,164 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:37:25,166 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:37:25,172 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:37:25,174 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:37:25,174 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:37:46,966 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:37:46,968 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:37:46,974 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:37:46,976 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:37:46,977 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:38:23,578 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:38:23,579 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:38:23,582 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:38:23,584 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:38:23,584 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:38:29,421 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:38:29,423 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:38:29,427 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:38:29,429 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:38:29,430 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:39:39,790 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:39:39,793 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:39:39,798 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:39:39,800 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:39:39,800 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:39:44,694 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:39:44,696 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:39:44,700 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:39:44,701 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:39:44,702 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:39:51,659 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:39:51,660 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:39:51,663 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:39:51,665 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:39:51,665 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:41:31,712 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:41:31,713 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:41:31,713 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:41:31,714 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:41:31,715 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:41:42,891 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:41:42,891 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:41:42,891 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:41:42,893 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:41:42,893 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:42:25,283 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:42:25,283 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:42:25,283 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:42:25,284 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:42:25,284 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:43:48,532 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:43:48,532 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:43:48,533 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:43:48,534 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:43:48,535 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:44:39,542 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:44:39,543 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:44:39,543 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:44:39,545 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:44:39,545 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:44:57,917 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:44:57,917 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:44:57,918 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:44:57,919 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:44:57,920 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:45:40,570 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:45:40,571 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:45:40,571 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:45:40,572 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:45:40,573 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:45:51,901 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:45:51,901 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:45:51,901 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:45:51,903 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:45:51,903 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:51:18,280 [Worker-258] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xiaonan.learning:spring-unit-testing-with-junit-and-mockito:0.0.1-SNAPSHOT @ C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\pom.xml.
+2019-03-11 14:52:04,939 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.pom
+2019-03-11 14:52:05,007 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.pom
+2019-03-11 14:52:05,120 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.pom
+2019-03-11 14:52:05,180 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.pom
+2019-03-11 14:52:05,263 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.pom
+2019-03-11 14:52:05,322 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.pom
+2019-03-11 14:52:05,386 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.pom
+2019-03-11 14:52:05,455 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.pom
+2019-03-11 14:52:05,569 [Worker-262] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xiaonan.learning:spring-unit-testing-with-junit-and-mockito:0.0.1-SNAPSHOT @ C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\pom.xml.
+2019-03-11 14:52:05,800 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.pom
+2019-03-11 14:52:05,884 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.pom
+2019-03-11 14:52:05,949 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/data/build/spring-data-parent/2.1.5.RELEASE/spring-data-parent-2.1.5.RELEASE.pom
+2019-03-11 14:52:06,032 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/data/build/spring-data-parent/2.1.5.RELEASE/spring-data-parent-2.1.5.RELEASE.pom
+2019-03-11 14:52:06,092 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.pom
+2019-03-11 14:52:06,145 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.pom
+2019-03-11 14:52:06,198 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.pom
+2019-03-11 14:52:06,244 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.pom
+2019-03-11 14:52:06,296 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.pom
+2019-03-11 14:52:06,338 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.pom
+2019-03-11 14:52:06,341 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.pom
+2019-03-11 14:52:06,422 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.pom
+2019-03-11 14:52:06,526 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar
+2019-03-11 14:52:06,676 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar
+2019-03-11 14:52:06,737 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar
+2019-03-11 14:52:06,767 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.jar
+2019-03-11 14:52:06,787 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar
+2019-03-11 14:52:06,818 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.jar
+2019-03-11 14:52:06,844 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.jar
+2019-03-11 14:52:06,846 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar
+2019-03-11 14:52:06,907 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.jar
+2019-03-11 14:52:06,938 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar
+2019-03-11 14:52:07,191 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar
+2019-03-11 14:52:07,216 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar
+2019-03-11 14:52:07,220 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar
+2019-03-11 14:52:07,251 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar
+2019-03-11 14:52:07,494 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar
+2019-03-11 14:52:07,525 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar
+2019-03-11 14:52:07,899 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar
+2019-03-11 14:52:07,917 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar
+2019-03-11 14:52:07,928 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar
+2019-03-11 14:52:07,950 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar
+2019-03-11 14:52:08,171 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar
+2019-03-11 14:52:08,333 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar
+2019-03-11 14:52:08,516 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar
+2019-03-11 14:52:08,566 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar
+2019-03-11 14:52:08,595 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar
+2019-03-11 14:52:09,044 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar
+2019-03-11 14:52:09,416 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar
+2019-03-11 14:52:09,842 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar
+2019-03-11 14:52:09,871 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar
+2019-03-11 14:52:09,966 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar
+2019-03-11 14:52:11,270 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar
+2019-03-11 14:52:11,544 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar
+2019-03-11 14:52:12,976 [Worker-261] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar
+2019-03-11 14:52:13,396 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar
+2019-03-11 14:52:13,632 [Worker-262] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar
+2019-03-11 14:52:16,420 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:52:16,426 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:52:16,428 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:52:16,431 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:52:16,431 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:52:19,067 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:52:19,074 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:52:19,107 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:52:19,110 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:52:19,110 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:53:03,344 [Worker-250] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xiaonan.learning:spring-unit-testing-with-junit-and-mockito:0.0.1-SNAPSHOT @ C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\pom.xml.
+2019-03-11 14:53:03,978 [Worker-250] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.pom
+2019-03-11 14:53:04,022 [Worker-250] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.pom
+2019-03-11 14:53:04,170 [Worker-250] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.jar
+2019-03-11 14:53:04,623 [Worker-250] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.jar
+2019-03-11 14:53:05,301 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:53:05,306 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:53:05,307 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:53:05,312 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:53:05,312 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:53:08,492 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:53:08,494 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:53:08,518 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:53:08,520 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:53:08,520 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:55:18,729 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:55:18,731 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:55:18,743 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:55:18,745 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:55:18,745 [Worker-261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:55:29,831 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:55:29,833 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:55:29,837 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:55:29,839 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:55:29,839 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:55:33,538 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:55:33,540 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:55:33,552 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:55:33,555 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:55:33,555 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:56:41,885 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:56:41,887 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:56:41,893 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:56:41,895 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:56:41,895 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:57:01,503 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:57:01,503 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:57:01,506 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:57:01,508 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:57:01,508 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 14:58:11,389 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:58:11,389 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 14:58:11,392 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 14:58:11,396 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 14:58:11,396 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:01:09,276 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:01:09,277 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 15:01:09,277 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:01:09,284 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:01:09,284 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:01:49,370 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:01:49,371 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 15:01:49,371 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:01:49,380 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:01:49,380 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:02:24,579 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:02:24,579 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:02:24,590 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 15:02:24,592 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:02:24,593 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:03:08,690 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:03:08,690 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 15:03:08,690 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:03:08,695 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:03:08,695 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:04:01,903 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:04:01,903 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 15:04:01,904 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:04:01,914 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:04:01,914 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:06:24,287 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:06:24,288 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-11 15:06:24,289 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:06:24,297 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:06:24,297 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:07:17,592 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:07:17,594 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:07:17,601 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:07:17,603 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:07:17,603 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:07:37,941 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:07:37,943 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:07:37,948 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:07:37,952 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:07:37,953 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:09:24,101 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:09:24,103 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:09:24,112 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:09:24,114 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:09:24,115 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:10:21,617 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:10:21,619 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:10:21,623 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:10:21,625 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:10:21,625 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:10:28,201 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:10:28,202 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:10:28,207 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:10:28,210 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:10:28,210 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:12:39,704 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:12:39,706 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:12:39,710 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:12:39,712 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:12:39,712 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:13:01,878 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:13:01,880 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:13:01,888 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:13:01,890 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:13:01,890 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:13:31,659 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:13:31,661 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:13:31,668 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:13:31,670 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:13:31,670 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
+2019-03-11 15:14:49,475 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:14:49,477 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:14:49,481 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-11 15:14:49,484 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-11 15:14:49,484 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\source\learning\junitWithMockito\spring-unit-testing-with-junit-and-mockito\src\test\resources
