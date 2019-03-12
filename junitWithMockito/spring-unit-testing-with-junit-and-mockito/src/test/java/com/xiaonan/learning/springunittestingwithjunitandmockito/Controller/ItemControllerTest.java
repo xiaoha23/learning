@@ -3,6 +3,7 @@ package com.xiaonan.learning.springunittestingwithjunitandmockito.Controller;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
+import java.util.Arrays;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,6 +17,7 @@ import org.springframework.test.web.servlet.RequestBuilder;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
 import com.xiaonan.learning.springunittestingwithjunitandmockito.business.ItemBusinessService;
+import com.xiaonan.learning.springunittestingwithjunitandmockito.business.ItemBusinessServiceTest;
 import com.xiaonan.learning.springunittestingwithjunitandmockito.controller.HelloWorldController;
 import com.xiaonan.learning.springunittestingwithjunitandmockito.controller.ItemController;
 import com.xiaonan.learning.springunittestingwithjunitandmockito.model.Item;
@@ -62,6 +64,26 @@ public class ItemControllerTest {
 				.andExpect(status().isOk())
 				//.andExpect(content().string("{\"id\":1,\"name\":\"Ball\",\"price\":10,\"quantity\":100}"))
 				.andExpect(content().json("{id: 2, name:Ball2, price:10, quantity:100}"))
+				.andReturn();
+		//assertEquals("Hello World", result.getResponse().getContentAsString());
+	}
+	
+	@Test
+	public void retrieveAllItemseBasicTest() throws Exception {
+		
+		when(businessService.retrieveAllItems()).thenReturn(
+				Arrays.asList(new Item(2, "Ball2", 10, 100), 
+						new Item(3, "Ball3", 30, 300)));
+		
+		RequestBuilder request = MockMvcRequestBuilders
+				.get("/all-items-from-database")
+				.accept(MediaType.APPLICATION_JSON);
+		
+		MvcResult result = mockMvc.perform(request)
+				.andExpect(status().isOk())
+				//.andExpect(content().string("{\"id\":1,\"name\":\"Ball\",\"price\":10,\"quantity\":100}"))
+				.andExpect(content().json("[{id: 2, name:Ball2, price:10, quantity:100},"
+						+ "{id: 3, name:Ball3, price:30, quantity:300}]"))
 				.andReturn();
 		//assertEquals("Hello World", result.getResponse().getContentAsString());
 	}

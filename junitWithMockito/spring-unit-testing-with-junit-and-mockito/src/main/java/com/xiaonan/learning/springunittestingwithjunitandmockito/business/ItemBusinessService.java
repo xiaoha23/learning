@@ -21,10 +21,14 @@ public class ItemBusinessService {
 
 	public List<Item> retrieveAllItems() {
 		List<Item> items = repository.findAll();
-		for(Item item:items) {
+		items.forEach(item -> 
+			item.setValue(item.getPrice() * item.getQuantity())
+		);
+		/*for(Item item:items) {
 			item.setValue(item.getPrice() * item.getQuantity());
-		}
+		}*/
 		return repository.findAll();
 	}
 	
 }
+

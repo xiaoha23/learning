@@ -4,9 +4,6 @@ import static org.junit.Assert.*;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-import java.util.Arrays;
-import java.util.List;
-
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,22 +11,20 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
 
-import com.xiaonan.learning.springunittestingwithjunitandmockito.data.ItemRepository;
 import com.xiaonan.learning.springunittestingwithjunitandmockito.data.SomeDataService;
-import com.xiaonan.learning.springunittestingwithjunitandmockito.model.Item;
 
 @RunWith(MockitoJUnitRunner.class)
-public class SomeBusinessMockTest {
+public class ItemBusinessServiceTest {
 
 	/*SomeBusinessImpl business = new SomeBusinessImpl();
 	SomeDataService dataServiceMock = mock(SomeDataService.class);
 	*/
 	
 	@InjectMocks
-	private ItemBusinessService business; 
+	private SomeBusinessImpl business; 
 	
 	@Mock
-	private ItemRepository repository;
+	private SomeDataService dataServiceMock;
 	
 	/*@Before
 	public void before() {
@@ -37,13 +32,20 @@ public class SomeBusinessMockTest {
 	}*/	
 
 	@Test
-	public void retrieveAllItems_basic() {
-		when(repository.findAll()).thenReturn(Arrays.asList(new Item(2, "Ball2", 10, 100), 
-				new Item(3, "Ball3", 30, 300)));
-		List<Item> items = business.retrieveAllItems();
-		assertEquals(1000, items.get(0).getValue());
-		assertEquals(9000, items.get(1).getValue());
+	public void calculateSumUsingDataService_basic() {
+		when(dataServiceMock.retrieveAllData()).thenReturn(new int[] {1, 2, 3});
+		assertEquals(6, business.calculateSumUsingDataService());
 	}
 	
-	
+	@Test
+	public void calculateSumUsingDataService_empty() {
+		when(dataServiceMock.retrieveAllData()).thenReturn(new int[] {});
+		assertEquals(0, business.calculateSumUsingDataService());
+	}
+
+	@Test
+	public void calculateSumUsingDataService_oneValue() {
+		when(dataServiceMock.retrieveAllData()).thenReturn(new int[] {5});
+		assertEquals(5, business.calculateSumUsingDataService());
+	}
 }

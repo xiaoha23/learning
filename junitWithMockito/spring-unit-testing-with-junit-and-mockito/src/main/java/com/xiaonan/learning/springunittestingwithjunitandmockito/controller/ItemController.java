@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.xiaonan.learning.springunittestingwithjunitandmockito.business.ItemBusinessService;
+import com.xiaonan.learning.springunittestingwithjunitandmockito.business.ItemBusinessServiceTest;
 import com.xiaonan.learning.springunittestingwithjunitandmockito.model.Item;
 
 @RestController
@@ -25,7 +26,7 @@ public class ItemController {
 		return businessService.retrieveHardcodedItem();
 	}
 	
-	@GetMapping("/all-items-from-databas") 
+	@GetMapping("/all-items-from-database") 
 	public List<Item> retrieveAllItems() {
 		return businessService.retrieveAllItems();
 	}
